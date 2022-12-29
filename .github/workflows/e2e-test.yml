@@ -1,11 +1,5 @@
 name: e2e test
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+on: ["push", "pull_request"]
 jobs:
   e2e:
     name: e2e test
