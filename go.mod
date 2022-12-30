@@ -172,4 +172,6 @@ require (
 	sourcegraph.com/sourcegraph/appdash v0.0.0-20190731080439-ebfcffb1b5c0 // indirect
 )
 
-replace kusionstack.io/kclvm-go => github.com/Peefy/kclvm-go v0.0.0-20221229102302-2942f834f7b6
+replace kusionstack.io/kclvm-go => github.com/Peefy/kclvm-go v0.0.0-20221230030630-91d24cec0e42
+
+replace kusionstack.io/kclvm-artifact-go => github.com/Peefy/kclvm-artifact-go v0.0.0-20221230024220-5c89844c641c
