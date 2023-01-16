@@ -1190,10 +1190,10 @@ k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9 h1:HNSDgDCrr/6Ly3WEGKZftiE7IY19V
 k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9/go.mod h1:jPW/WVKK9YHAvNhRxK0md/EJ228hCsBRufyofKtW8HA=
 kusionstack.io/kcl-plugin v0.4.1-alpha2 h1:m43JJhpJSjl/Q3FqghJf5dRIwdXsrJeKxrHhgqLJqbA=
 kusionstack.io/kcl-plugin v0.4.1-alpha2/go.mod h1:VgB7qXVbDGWFOh/qb/yXf75+UrliP5EPXOQUDqBCdAQ=
-kusionstack.io/kclvm-artifact-go v0.4.4-beta.2 h1:2O88iavTScewogSuei+o3mX4AHGqfGW50gwjBOvyDmM=
-kusionstack.io/kclvm-artifact-go v0.4.4-beta.2/go.mod h1:WI+NvDeMqu1AduJT119X7q8KQdYmKfv4Nq4OvZ1tAsI=
-kusionstack.io/kclvm-go v0.4.4-beta.2 h1:1fF1M6OY5LUajHr9hjs3bOwkOqVsKvmTlwj2YU6cVFM=
-kusionstack.io/kclvm-go v0.4.4-beta.2/go.mod h1:3wG/d94VyEmdWy9I+sqkl9d7NW9HZxlNY5rDXfCXtQk=
+kusionstack.io/kclvm-artifact-go v0.4.4-beta.3 h1:ChClPgtKmdVP8U/4NnDnKKZSCFZgFuaucAPp8WH+oG0=
+kusionstack.io/kclvm-artifact-go v0.4.4-beta.3/go.mod h1:WI+NvDeMqu1AduJT119X7q8KQdYmKfv4Nq4OvZ1tAsI=
+kusionstack.io/kclvm-go v0.4.4-beta.3 h1:ETO/2kyiplO+mSJFtkYUmKz3V5xN9//lfCkX+cfazFs=
+kusionstack.io/kclvm-go v0.4.4-beta.3/go.mod h1:UZSfGtkTwRjB4Sl6N66PuY04p6KfHzv6TZ0/BfFQYjI=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
